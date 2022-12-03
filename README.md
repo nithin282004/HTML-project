@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nithin282004
+- 👋 Hi, I’m @nithin aparadapu
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
